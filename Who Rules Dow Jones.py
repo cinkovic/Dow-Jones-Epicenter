@@ -1,3 +1,7 @@
+'''needs to be implemented inside Jupyter Notebook in order to yield a picture
+Takes few minutes to process..
+'''
+
 import pandas as pd
 import networkx as nx
 import matplotlib.pyplot as plt
